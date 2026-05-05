@@ -31,7 +31,7 @@ crescer junto com uma equipe incrível.
 
 ### 📊 GitHub Stats
 
-![Luis's GitHub stats](https://github-readme-stats.vercel.app/api?username=luisrodriguesss&show_icons=true&theme=default&hide_border=true&cache_seconds=1800)
+[![GitHub Streak](https://streak-stats.demolab.com?user=luisrodriguesss&theme=default&hide_border=true)](https://git.io/streak-stats)
 
 ---
 
